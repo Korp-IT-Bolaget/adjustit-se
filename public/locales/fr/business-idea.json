@@ -1,0 +1,41 @@
+{
+  "page": {
+    "title": "Concept Commercial - AdjustIT",
+    "description": "Chez AdjustIT, notre passion est de faciliter le quotidien des petites associations en développant des applications intelligentes et sur mesure."
+  },
+  "aboutSection": {
+    "title1": "À",
+    "title2": "propos d'AdjustIT",
+    "text": "Chez AdjustIT, nous sommes passionnés par l'idée de faciliter le quotidien des petites associations. En développant des applications intelligentes et sur mesure, nous vous aidons à rationaliser et à simplifier vos opérations. Notre objectif est de vous permettre de vous concentrer sur ce qui est réellement important : votre cœur de métier et vos membres. Nous travaillons en étroite collaboration avec vous pour identifier vos besoins uniques et vous fournir des solutions qui font une réelle différence."
+  },
+  "storySection": {
+    "title1": "Notre",
+    "title2": "histoire",
+    "cards": {
+      "card1": {
+        "title": "Conception",
+        "text": "Nous commençons chaque projet en vous écoutant. Ensemble, nous passons en revue vos défis et vos besoins pour créer une image claire de ce qui doit être construit. Cela constitue la base de la conception et de la solution personnalisées que nous développons."
+      },
+      "card2": {
+        "title": "Développement",
+        "text": "Notre développement est basé sur une analyse approfondie de vos besoins. Nous choisissons la meilleure technologie pour chaque projet, comme Blazor pour KorpAccess, afin de créer des applications robustes et modernes. Nos modèles de solutions rationalisent le processus et minimisent les coûts, tout en maintenant un accent sur la qualité."
+      },
+      "card3": {
+        "title": "Gestion de projet",
+        "text": "Nous croyons en un processus transparent et structuré. Grâce à une gestion de projet efficace, nous veillons à ce que le projet se déroule sans accroc et que vous soyez toujours informé de son avancement. Une communication claire est notre priorité."
+      },
+      "card4": {
+        "title": "Collaboration",
+        "text": "La collaboration est la clé du succès. Nous travaillons en étroite collaboration avec vous du début à la fin. Par le biais d'ateliers et de réunions régulières, nous nous assurons que la solution que nous construisons est exactement ce dont vous avez besoin."
+      },
+      "card5": {
+        "title": "Stratégie axée sur le client",
+        "text": "Vous êtes au centre de tout ce que nous faisons. Notre engagement s'étend au-delà du simple code ; nous nous considérons comme un partenaire qui veut vous voir réussir. Nous nous adaptons à vos souhaits pour créer une solution qui est parfaite pour votre association spécifique."
+      },
+      "card6": {
+        "title": "Moteur de succès",
+        "text": "Grâce à notre expertise en conseil informatique et en développement d'applications, nous vous aidons à franchir la prochaine étape. Qu'il s'agisse de KorpAccess ou d'un autre défi informatique, nous sommes là pour vous faire avancer."
+      }
+    }
+  }
+}

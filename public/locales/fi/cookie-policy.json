@@ -1,0 +1,83 @@
+{
+  "page": {
+    "title": "Evästekäytäntö - AdjustIT",
+    "description": "AdjustIT AB:n eväste- ja vastaavien teknologioiden käytäntö verkkosivustollamme."
+  },
+  "headerSection": {
+    "title": "Evästekäytäntö",
+    "updated": "Viimeksi päivitetty 22. syyskuuta 2025"
+  },
+  "introSection": {
+    "text": "Tämä sivu kuvaa, kuinka AdjustIT käyttää evästeitä ja vastaavia teknologioita kerätäkseen ja tallentaakseen tietoja, kun vierailet verkkosivustollamme. Käytännön tarkoituksena on täyttää Ruotsin sähköisen viestinnän lain (LEK) ja yleisen tietosuoja-asetuksen (GDPR) vaatimukset."
+  },
+  "whatAreCookiesSection": {
+    "title": "Mitä evästeet ovat?",
+    "text": "Eväste on pieni tekstitiedosto, joka tallennetaan laitteellesi (tietokone, tabletti tai matkapuhelin), kun vierailet verkkosivustolla. Evästeet mahdollistavat verkkosivuston tunnistaa laitteesi ja tallentaa tietoja mieltymyksistäsi, mikä parantaa käyttökokemustasi. Jotkut evästeet ovat välttämättömiä verkkosivuston toiminnan kannalta, kun taas toisia käytetään verkkosivuston suorituskyvyn analysointiin tai sisällön mukauttamiseen."
+  },
+  "whatCookiesDoWeUseSection": {
+    "title": "Mitä evästeitä käytämme?",
+    "text": "Käytämme yhtä suostumusevästettä, joka tallentaa valintasi, ja joka puolestaan hallitsee, mitkä muut evästeet tallennetaan laitteellesi."
+  },
+  "cookieTypesSection": {
+    "title": "Välttämättömät evästeet",
+    "subTitle2": "Evästeet parempaan käyttökokemukseen",
+    "subTitle3": "Suorituskyky- ja tilastoevästeet",
+    "necessaryCookies": {
+      "text": "Jotta verkkosivustomme toimisi oikein ja jotta voisimme tallentaa suostumusvalintasi, käytämme yhtä välttämätöntä evästettä. Tämän evästeen avulla voimme muistaa evästeasetuksesi ja varmistaa, että verkkosivuston perustoiminnot toimivat niin kuin niiden kuuluu. Koska se on välttämätön, sitä ei voi poistaa käytöstä. Tämä eväste ei kerää henkilötietoja, joita voitaisiin käyttää markkinointiin tai verkon käytön seuraamiseen.",
+      "list": {
+        "item1": {
+          "name": "Nimi:",
+          "name_value": "cookie-consent",
+          "purpose": "Tarkoitus:",
+          "purpose_value": "Tallentaa evästeasetusvalintasi, mukaan lukien valinnat \"Parempi käyttökokemus\" ja \"Suorituskyky\".",
+          "storageTime": "Tallennusaika:",
+          "storageTime_value": "1 vuosi."
+        }
+      }
+    },
+    "experienceCookies": {
+      "text": "Jos hyväksyt tämän kategorian, tallennamme evästeitä, jotka parantavat käyttökokemustasi verkkosivustolla tallentamalla mieltymyksesi. Tähän voi kuulua valintoja, kuten kieli tai teema (tumma/vaalea tila). Voit peruuttaa suostumuksesi näiden evästeiden osalta milloin tahansa, mutta niiden poistaminen käytöstä voi vaikuttaa siihen, miltä verkkosivusto näyttää ja tuntuu sinusta.",
+      "list": {
+        "item1": {
+          "name": "Nimi:",
+          "name_value": "i18nextLng",
+          "purpose": "Tarkoitus:",
+          "purpose_value": "Tallentaa kielivalintasi verkkosivustoa varten.",
+          "storageTime": "Tallennusaika:",
+          "storageTime_value": "1 vuosi."
+        },
+        "item2": {
+          "name": "Nimi:",
+          "name_value": "theme",
+          "purpose": "Tarkoitus:",
+          "purpose_value": "Tallentaa teemavalintasi (tumma/vaalea tila).",
+          "storageTime": "Tallennusaika:",
+          "storageTime_value": "1 vuosi."
+        }
+      }
+    },
+    "performanceCookies": {
+      "text": "Jos hyväksyt tämän kategorian, käytämme evästeitä, jotka auttavat meitä analysoimaan, kuinka kävijät ovat vuorovaikutuksessa verkkosivustomme kanssa. Tämä antaa meille tietoa sen suorituskyvyn ja käyttäjäystävällisyyden parantamiseksi. Kerätyt tiedot ovat anonyymejä ja sisältävät tietoja, kuten kävijöiden määrän, suosituimmat sivut ja mistä kävijät tulevat. Nämä tiedot auttavat meitä ymmärtämään, kuinka verkkosivustoa käytetään ja kuinka voimme tehdä siitä paremman.",
+      "list": {
+        "item1": {
+          "name": "Nimi:",
+          "name_value": "analytics",
+          "purpose": "Tarkoitus:",
+          "purpose_value": "Kerää anonyymejä tilastoja siitä, kuinka verkkosivustoamme käytetään.",
+          "storageTime": "Tallennusaika:",
+          "storageTime_value": "1 vuosi."
+        }
+      }
+    }
+  },
+  "yourChoicesSection": {
+    "title": "Valintasi ja hallinta",
+    "text": "Sinulla on täysi hallinta siitä, mitkä evästeet haluat hyväksyä. Evästeiden suostumustyökalumme kautta voit muuttaa asetuksiasi ei-välttämättömien evästeiden osalta milloin tahansa. Voit myös poistaa evästeet suoraan selaimesi asetuksista. Muista, että jotkut verkkosivuston toiminnot voivat lakata toimimasta, jos päätät estää kaikki evästeet."
+  },
+  "contactSection": {
+    "title": "Ota yhteyttä",
+    "text": "Jos sinulla on kysyttävää evästekäytännöstämme tai siitä, kuinka käsittelemme henkilötietojasi, voit ottaa meihin yhteyttä osoitteessa:",
+    "emailLabel": "Sähköposti:",
+    "emailAddress": "contact@adjustit.se"
+  }
+}

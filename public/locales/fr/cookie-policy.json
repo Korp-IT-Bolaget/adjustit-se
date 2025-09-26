@@ -1,0 +1,83 @@
+{
+  "page": {
+    "title": "Politique en matière de cookies - AdjustIT",
+    "description": "La politique d'AdjustIT AB en matière de cookies et de technologies similaires sur notre site web."
+  },
+  "headerSection": {
+    "title": "Politique en matière de cookies",
+    "updated": "Dernière mise à jour le 22 septembre 2025"
+  },
+  "introSection": {
+    "text": "Cette page décrit comment AdjustIT utilise les cookies et les technologies similaires pour collecter et stocker des informations lorsque vous visitez notre site web. La politique est conçue pour répondre aux exigences de la loi suédoise sur les communications électroniques (LEK) et du Règlement général sur la protection des données (RGPD)."
+  },
+  "whatAreCookiesSection": {
+    "title": "Que sont les cookies ?",
+    "text": "Un cookie est un petit fichier texte stocké sur votre appareil (ordinateur, tablette ou mobile) lorsque vous visitez un site web. Les cookies permettent au site web de reconnaître votre appareil et de stocker des informations sur vos préférences, ce qui améliore votre expérience utilisateur. Certains cookies sont nécessaires au bon fonctionnement du site, tandis que d'autres sont utilisés pour analyser les performances du site ou pour personnaliser le contenu."
+  },
+  "whatCookiesDoWeUseSection": {
+    "title": "Quels cookies utilisons-nous ?",
+    "text": "Nous utilisons un seul cookie de consentement qui stocke vos choix, ce qui contrôle à son tour les autres cookies qui sont enregistrés sur votre appareil."
+  },
+  "cookieTypesSection": {
+    "title": "Cookies nécessaires",
+    "subTitle2": "Cookies pour une expérience améliorée",
+    "subTitle3": "Cookies de performance et de statistiques",
+    "necessaryCookies": {
+      "text": "Pour que notre site web fonctionne correctement et que nous puissions enregistrer vos choix de consentement, nous utilisons un seul cookie nécessaire. Ce cookie nous permet de mémoriser vos paramètres de cookies et garantit que les fonctions de base du site fonctionnent comme il se doit. Comme il est essentiel, il ne peut pas être désactivé. Ce cookie ne collecte aucune information personnelle pouvant être utilisée à des fins de marketing ou pour suivre votre utilisation du web.",
+      "list": {
+        "item1": {
+          "name": "Nom :",
+          "name_value": "cookie-consent",
+          "purpose": "Objectif :",
+          "purpose_value": "Enregistre votre choix de paramètres de cookies, y compris vos choix pour « Expérience améliorée » et « Performance ».",
+          "storageTime": "Durée de stockage :",
+          "storageTime_value": "1 an."
+        }
+      }
+    },
+    "experienceCookies": {
+      "text": "Si vous approuvez cette catégorie, nous stockons des cookies qui améliorent votre expérience sur le site en enregistrant vos préférences. Cela peut inclure des choix comme la langue ou le thème (mode sombre/clair). Vous pouvez choisir de retirer votre consentement pour ces types de cookies à tout moment, mais leur désactivation peut affecter l'apparence et le fonctionnement du site pour vous.",
+      "list": {
+        "item1": {
+          "name": "Nom :",
+          "name_value": "i18nextLng",
+          "purpose": "Objectif :",
+          "purpose_value": "Enregistre votre choix de langue pour le site web.",
+          "storageTime": "Durée de stockage :",
+          "storageTime_value": "1 an."
+        },
+        "item2": {
+          "name": "Nom :",
+          "name_value": "theme",
+          "purpose": "Objectif :",
+          "purpose_value": "Enregistre votre choix de thème (mode sombre/clair).",
+          "storageTime": "Durée de stockage :",
+          "storageTime_value": "1 an."
+        }
+      }
+    },
+    "performanceCookies": {
+      "text": "Si vous approuvez cette catégorie, nous utilisons des cookies qui nous aident à analyser la façon dont les visiteurs interagissent avec notre site web, ce qui nous donne des informations pour améliorer ses performances et sa convivialité. Les informations collectées sont anonymisées et incluent des données telles que le nombre de visiteurs, les pages les plus populaires et la provenance des visiteurs. Ces informations nous aident à comprendre comment le site est utilisé et comment nous pouvons le rendre meilleur.",
+      "list": {
+        "item1": {
+          "name": "Nom :",
+          "name_value": "analytics",
+          "purpose": "Objectif :",
+          "purpose_value": "Collecte des statistiques anonymes sur la façon dont notre site web est utilisé.",
+          "storageTime": "Durée de stockage :",
+          "storageTime_value": "1 an."
+        }
+      }
+    }
+  },
+  "yourChoicesSection": {
+    "title": "Vos choix et votre contrôle",
+    "text": "Vous avez le contrôle total sur les cookies que vous souhaitez accepter. Grâce à notre outil de consentement aux cookies, vous pouvez modifier vos paramètres pour les cookies non essentiels à tout moment. Vous pouvez également effacer les cookies directement via les paramètres de votre navigateur. Sachez que certaines fonctions du site web pourraient cesser de fonctionner si vous choisissez de bloquer tous les cookies."
+  },
+  "contactSection": {
+    "title": "Nous contacter",
+    "text": "Si vous avez des questions concernant notre politique en matière de cookies ou la manière dont nous traitons vos données personnelles, vous pouvez nous contacter à l'adresse suivante :",
+    "emailLabel": "E-mail :",
+    "emailAddress": "contact@adjustit.se"
+  }
+}

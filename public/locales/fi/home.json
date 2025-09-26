@@ -1,0 +1,75 @@
+{
+  "page": {
+    "title": "Koti - AdjustIT",
+    "description": "AdjustIT on kumppanisi innovatiivisissa IT-ratkaisuissa, turvallisuudessa ja digitaalisessa kasvussa. Ota meihin yhteyttä optimoidaksesi liiketoimintasi."
+  },
+  "heroSection": {
+    "category1": "Älykkäät kulunvalvontaratkaisut",
+    "category2": "Brändi ja kokemus",
+    "title1": "Innovatiivista &",
+    "title2": "Luotettavaa teknologiaa",
+    "subtitle": "Nopeaa, sujuvaa ja käyttäjäystävällistä.",
+    "paragraph": "Tervetuloa digitaaliseen maailmaamme! Olemme IT-konsultteja, jotka luovat älykkäitä, kestäviä ja tulevaisuudenkestäviä digitaalisia ratkaisuja.",
+    "ctaButton": "Varaa demo",
+    "cards": {
+      "smartSolutions": {
+        "title": "Älykkäät IT-ratkaisut",
+        "description": "Räätälöidyt IT-ratkaisut, jotka vahvistavat ja optimoivat liiketoimintaasi."
+      },
+      "securityStability": {
+        "title": "Turvallisuus ja vakaus",
+        "description": "Digitaalisen omaisuuden suojaaminen vakailla ja luotettavilla järjestelmillä."
+      },
+      "future": {
+        "title": "Askel tulevaisuuteen",
+        "description": "Tukea strategiasta toteutukseen, jotta pysyt askeleen edellä."
+      },
+      "innovationGrowth": {
+        "title": "Innovaatio ja kasvu",
+        "description": "Autamme sinua löytämään uusia mahdollisuuksia ja edistämään innovaatioita."
+      },
+      "supportMaintenance": {
+        "title": "Tuki ja ylläpito",
+        "description": "Luotettava ja nopea tuki, joka varmistaa, että järjestelmäsi toimivat aina."
+      },
+      "cloudSolutions": {
+        "title": "Pilviratkaisut",
+        "description": "Tehokkaat ja turvalliset pilvipalvelut, jotka optimoivat liiketoimintaasi."
+      }
+    }
+  },
+  "devToolsSection": {
+    "part1": "Kehitystä",
+    "part2": "parhailla",
+    "part3": "kehysillä ja työkaluilla"
+  },
+  "teamSection": {
+    "title1": "Tapaa",
+    "title2": "tiimi",
+    "members": {
+      "manjaro": {
+        "name": "Manjaro",
+        "role": "Perustaja, toimitusjohtaja ja järjestelmäkehittäjä"
+      },
+      "kyemate": {
+        "name": "Kyemate",
+        "role": "Perustaja, toimitusjohtaja ja järjestelmäkehittäjä"
+      },
+      "zeythar": {
+        "name": "Zeythar",
+        "role": "Järjestelmäkehittäjä"
+      },
+      "agnes": {
+        "name": "Agnes",
+        "role": "Järjestelmäkehittäjä"
+      }
+    }
+  },
+  "callToActionSection": {
+    "title1": "Kuulostaako hyvältä?",
+    "title2": "Sitten on aika",
+    "title3": "ottaa seuraava askel.",
+    "description": "Ota meihin yhteyttä ilmaista konsultaatiota varten. Autamme sinua optimoimaan liiketoimintasi, lisäämään tehokkuutta ja turvaamaan digitaalisen tulevaisuutesi.",
+    "actionButton": "Aloita"
+  }
+}

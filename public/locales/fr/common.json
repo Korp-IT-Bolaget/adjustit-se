@@ -1,0 +1,69 @@
+{
+  "cookies": {
+    "title": "Nous utilisons des cookies",
+    "description": {
+      "text1": "Certains cookies sont nécessaires au bon fonctionnement du service. Ceux que vous pouvez choisir sont utilisés pour :",
+      "text2": "Certains cookies proviennent d'entreprises avec lesquelles nous collaborons. Vous pouvez modifier ou retirer votre consentement à tout moment."
+    },
+    "preferences": {
+      "improve": "Développer et améliorer AdjustIT",
+      "personalize": "Personnaliser le contenu et les fonctionnalités pour vous"
+    },
+    "actions": {
+      "settings": "Paramètres des cookies",
+      "rejectAll": "Tout refuser",
+      "acceptAll": "Tout accepter",
+      "savePreferences": "Enregistrer mes choix"
+    },
+    "settings": {
+      "back": "Retour",
+      "title": "Gérer vos paramètres de cookies",
+      "essential": {
+        "title": "Essentiels",
+        "description": "Pour garantir le fonctionnement de notre service, certains traitements de données sont nécessaires.",
+        "consentTitle": "Consentement pour les cookies",
+        "consentText": "AdjustIT enregistre vos paramètres de cookies actuels."
+      },
+      "improvedExperience": {
+        "title": "Expérience améliorée",
+        "description": "Ces cookies sont utilisés pour personnaliser le contenu et les fonctionnalités en fonction de la manière dont vous utilisez AdjustIT.",
+        "languageTitle": "Langue",
+        "languageText": "Mémorise votre choix de langue.",
+        "themeTitle": "Thème",
+        "themeText": "Mémorise votre choix de thème."
+      },
+      "performance": {
+        "title": "Performance",
+        "description": "Ces cookies sont utilisés pour développer et améliorer AdjustIT grâce à des statistiques anonymisées.",
+        "statsTitle": "Statistiques",
+        "statsText": "AdjustIT analyse le comportement pour améliorer le service. Toutes les informations collectées sont anonymes."
+      }
+    }
+  },
+  "navigation": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos de nous",
+    "contact": "Nous contacter"
+  },
+  "services": {
+    "items": {
+      "korpaccess": {
+        "title": "KorpAccess",
+        "description": "Une solution intelligente et sécurisée qui transforme votre mobile en clé numérique."
+      }
+    }
+  },
+  "about": {
+    "items": {
+      "businessIdeaAndVision": "Concept commercial et vision",
+      "ourHistory": "Notre histoire",
+      "management": "Direction"
+    }
+  },
+  "footer": {
+    "privacyPolicy": "Politique de confidentialité",
+    "cookiePolicy": "Politique en matière de cookies"
+  },
+  "notFound": "Oh non ! Quelque chose s'est mal passé."
+}

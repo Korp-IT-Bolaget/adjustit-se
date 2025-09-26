@@ -1,0 +1,83 @@
+{
+  "page": {
+    "title": "Cookie Policy - AdjustIT",
+    "description": "AdjustIT AB's policy for cookies and similar technologies on our website."
+  },
+  "headerSection": {
+    "title": "Cookie Policy",
+    "updated": "Last updated September 22, 2025"
+  },
+  "introSection": {
+    "text": "This page describes how AdjustIT uses cookies and similar technologies to collect and store information when you visit our website. The policy is designed to meet the requirements of the Swedish Electronic Communications Act (LEK) and the General Data Protection Regulation (GDPR)."
+  },
+  "whatAreCookiesSection": {
+    "title": "What are cookies?",
+    "text": "A cookie is a small text file stored on your device (computer, tablet, or mobile) when you visit a website. Cookies allow the website to recognize your device and store information about your preferences, which improves your user experience. Some cookies are necessary for the website's functionality, while others are used to analyze website performance or to customize content."
+  },
+  "whatCookiesDoWeUseSection": {
+    "title": "What cookies do we use?",
+    "text": "We use a single consent cookie that stores your choices, which in turn controls which other cookies are saved on your device."
+  },
+  "cookieTypesSection": {
+    "title": "Necessary cookies",
+    "subTitle2": "Cookies for improved experience",
+    "subTitle3": "Performance and statistics cookies",
+    "necessaryCookies": {
+      "text": "For our website to function correctly and for us to be able to store your consent choices, we use a single necessary cookie. This cookie allows us to remember your cookie settings and ensures that the website's basic functions work as they should. Since it is essential, it cannot be disabled. This cookie does not collect any personal information that can be used for marketing or to track your web usage.",
+      "list": {
+        "item1": {
+          "name": "Name:",
+          "name_value": "cookie-consent",
+          "purpose": "Purpose:",
+          "purpose_value": "Saves your choice of cookie settings, including your choices for \"Improved experience\" and \"Performance.\"",
+          "storageTime": "Storage time:",
+          "storageTime_value": "1 year."
+        }
+      }
+    },
+    "experienceCookies": {
+      "text": "If you approve this category, we store cookies that improve your experience on the website by saving your preferences. This may include choices like language or theme (dark/light mode). You can choose to withdraw your consent for these types of cookies at any time, but disabling them may affect how the website looks and feels to you.",
+      "list": {
+        "item1": {
+          "name": "Name:",
+          "name_value": "i18nextLng",
+          "purpose": "Purpose:",
+          "purpose_value": "Stores your language choice for the website.",
+          "storageTime": "Storage time:",
+          "storageTime_value": "1 year."
+        },
+        "item2": {
+          "name": "Name:",
+          "name_value": "theme",
+          "purpose": "Purpose:",
+          "purpose_value": "Stores your theme choice (dark/light mode).",
+          "storageTime": "Storage time:",
+          "storageTime_value": "1 year."
+        }
+      }
+    },
+    "performanceCookies": {
+      "text": "If you approve this category, we use cookies that help us analyze how visitors interact with our website, which gives us insights to improve its performance and user-friendliness. The information collected is anonymized and includes data such as the number of visitors, which pages are most popular, and where visitors come from. This information helps us understand how the website is used and how we can make it better.",
+      "list": {
+        "item1": {
+          "name": "Name:",
+          "name_value": "analytics",
+          "purpose": "Purpose:",
+          "purpose_value": "Collects anonymous statistics on how our website is used.",
+          "storageTime": "Storage time:",
+          "storageTime_value": "1 year."
+        }
+      }
+    }
+  },
+  "yourChoicesSection": {
+    "title": "Your choices and control",
+    "text": "You have full control over which cookies you want to accept. Through our cookie consent tool, you can change your settings for non-essential cookies at any time. You can also clear cookies directly via your browser's settings. Be aware that some functions on the website may stop working if you choose to block all cookies."
+  },
+  "contactSection": {
+    "title": "Contact us",
+    "text": "If you have questions about our cookie policy or how we process your personal data, you can contact us at:",
+    "emailLabel": "Email:",
+    "emailAddress": "contact@adjustit.se"
+  }
+}

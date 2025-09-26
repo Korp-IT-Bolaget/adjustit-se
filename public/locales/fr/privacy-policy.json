@@ -1,0 +1,98 @@
+{
+  "page": {
+    "title": "Politique de confidentialité - AdjustIT",
+    "description": "AdjustIT AB s'engage à protéger votre vie privée et s'efforce de protéger vos données personnelles de la meilleure façon possible."
+  },
+  "headerSection": {
+    "title": "Politique de confidentialité",
+    "updated": "Dernière mise à jour le 22 septembre 2025"
+  },
+  "introSection": {
+    "text": "AdjustIT AB (numéro d'organisation 559532-0770, \"nous\") s'engage à protéger votre vie privée et s'efforce de protéger vos données personnelles de la meilleure façon possible. Cette politique décrit comment nous collectons, utilisons et protégeons vos données personnelles conformément au Règlement général sur la protection des données (RGPD)."
+  },
+  "dataCollectionSection": {
+    "title": "Quelles données collectons-nous ?",
+    "introText": "Nous collectons les données personnelles nécessaires pour mener nos activités et communiquer avec vous en tant que client, client potentiel ou partenaire. Cela peut inclure :",
+    "list": {
+      "contactInfo": {
+        "title": "Informations de contact :",
+        "text": "Nom, adresse e-mail, numéro de téléphone, poste."
+      },
+      "companyInfo": {
+        "title": "Informations sur l'entreprise :",
+        "text": "Nom de l'entreprise, adresse, numéro d'identification d'entreprise."
+      },
+      "communicationHistory": {
+        "title": "Historique de communication :",
+        "text": "Notes de réunions, correspondance par e-mail et autres communications."
+      },
+      "websiteData": {
+        "title": "Données du site web :",
+        "text": "Informations sur la façon dont vous utilisez notre site web, collectées via des cookies et des outils d'analyse. Plus d'informations peuvent être trouvées dans notre",
+        "cookiePolicyLinkText": "politique en matière de cookies"
+      }
+    }
+  },
+  "dataProcessingSection": {
+    "title": "Pourquoi traitons-nous vos données ?",
+    "introText": "Vos données personnelles sont traitées aux fins suivantes :",
+    "list": {
+      "customerRelations": {
+        "title": "Relations avec les clients et accords :",
+        "text": "Pour remplir nos obligations en vertu des accords avec vous ou votre entreprise, et pour gérer la facturation et les questions de service client. La base légale pour cela est l'exécution d'un contrat."
+      },
+      "marketing": {
+        "title": "Marketing :",
+        "text": "Pour vous informer de nos services, événements et actualités qui, selon nous, pourraient vous intéresser. Ce traitement est basé sur notre intérêt légitime à commercialiser notre entreprise. Vous avez toujours le droit de refuser le marketing futur."
+      },
+      "analytics": {
+        "title": "Analyse et statistiques :",
+        "text": "Pour analyser les tendances des visiteurs et améliorer notre site web et nos services. Ce traitement est basé sur votre consentement, que vous fournissez via notre outil de cookies."
+      },
+      "recruitment": {
+        "title": "Recrutement :",
+        "text": "Si vous postulez à un poste chez nous, nous traitons vos données pour évaluer votre candidature. La base légale pour cela est votre consentement."
+      }
+    }
+  },
+  "dataRetentionSection": {
+    "title": "Combien de temps conservons-nous vos données ?",
+    "text": "Nous stockons vos données personnelles aussi longtemps que nécessaire aux fins pour lesquelles elles ont été collectées, ou aussi longtemps que la loi l'exige. Cela signifie que nous conservons les données sur les relations client pendant la durée du contrat et pendant une période par la suite pour nous conformer aux exigences légales. Les données à des fins de marketing sont conservées jusqu'à ce que vous vous désabonniez."
+  },
+  "yourRightsSection": {
+    "title": "Vos droits",
+    "introText": "En vertu du RGPD, vous avez plusieurs droits que vous pouvez exercer :",
+    "list": {
+      "access": {
+        "title": "Droit d'accès :",
+        "text": "Vous avez le droit d'obtenir une copie des données personnelles que nous détenons à votre sujet."
+      },
+      "rectification": {
+        "title": "Droit de rectification :",
+        "text": "Vous avez le droit de faire corriger des données incorrectes."
+      },
+      "erasure": {
+        "title": "Droit à l'effacement :",
+        "text": "Vous avez le droit de faire effacer vos données dans certaines circonstances."
+      },
+      "dataPortability": {
+        "title": "Droit à la portabilité des données :",
+        "text": "Vous avez le droit de faire transférer vos données à un autre responsable du traitement."
+      },
+      "objection": {
+        "title": "Droit d'opposition :",
+        "text": "Vous avez le droit de vous opposer à notre traitement de vos données."
+      },
+      "complaint": {
+        "title": "Droit de déposer une plainte :",
+        "text": "Vous avez le droit de déposer une plainte auprès de l'Autorité suédoise de protection de la vie privée (IMY) si vous pensez que nous traitons vos données de manière incorrecte."
+      }
+    }
+  },
+  "contactSection": {
+    "title": "Nous contacter",
+    "introText": "Le responsable du traitement est AdjustIT AB. Pour exercer vos droits ou si vous avez des questions sur la façon dont nous traitons vos données personnelles, vous pouvez nous contacter à l'adresse suivante :",
+    "emailLabel": "E-mail :",
+    "emailAddress": "contact@adjustit.se"
+  }
+}

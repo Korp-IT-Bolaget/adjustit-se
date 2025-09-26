@@ -1,0 +1,75 @@
+{
+  "page": {
+    "title": "Home - AdjustIT",
+    "description": "AdjustIT is your partner for innovative IT solutions, security, and digital growth. Contact us to optimize your business."
+  },
+  "heroSection": {
+    "category1": "Smart entry solutions",
+    "category2": "Brand & Experience",
+    "title1": "Innovative &",
+    "title2": "Reliable Technology",
+    "subtitle": "Fast, Smooth, and User-Friendly.",
+    "paragraph": "Welcome to our digital world! We are IT consultants who create smart, sustainable, and future-proof digital solutions.",
+    "ctaButton": "Book demo",
+    "cards": {
+      "smartSolutions": {
+        "title": "Smart IT Solutions",
+        "description": "Customized IT solutions that strengthen and optimize your business."
+      },
+      "securityStability": {
+        "title": "Security & Stability",
+        "description": "Protecting digital assets with stable and reliable systems."
+      },
+      "future": {
+        "title": "A step into the future",
+        "description": "Support from strategy to implementation to stay one step ahead."
+      },
+      "innovationGrowth": {
+        "title": "Innovation & Growth",
+        "description": "We help you identify new opportunities and drive innovation."
+      },
+      "supportMaintenance": {
+        "title": "Support & Maintenance",
+        "description": "Reliable and fast support that ensures your systems always work."
+      },
+      "cloudSolutions": {
+        "title": "Cloud Solutions",
+        "description": "Efficient and secure cloud services that optimize your business."
+      }
+    }
+  },
+  "devToolsSection": {
+    "part1": "Development with",
+    "part2": "the best",
+    "part3": "frameworks & tools"
+  },
+  "teamSection": {
+    "title1": "Meet",
+    "title2": "the Team",
+    "members": {
+      "manjaro": {
+        "name": "Manjaro",
+        "role": "Founder, CEO & Systems Developer"
+      },
+      "kyemate": {
+        "name": "Kyemate",
+        "role": "Founder, CEO & Systems Developer"
+      },
+      "zeythar": {
+        "name": "Zeythar",
+        "role": "Systems Developer"
+      },
+      "agnes": {
+        "name": "Agnes",
+        "role": "Systems Developer"
+      }
+    }
+  },
+  "callToActionSection": {
+    "title1": "Does this sound good?",
+    "title2": "Then it's time to",
+    "title3": "take the next step.",
+    "description": "Contact us for a free consultation. We'll help you optimize your business, increase efficiency, and secure your digital future.",
+    "actionButton": "Get started"
+  }
+}

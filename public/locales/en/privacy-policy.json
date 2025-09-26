@@ -1,0 +1,98 @@
+{
+  "page": {
+    "title": "Privacy Policy - AdjustIT",
+    "description": "AdjustIT AB is committed to protecting your personal privacy and strives to protect your personal data in the best possible way."
+  },
+  "headerSection": {
+    "title": "Privacy Policy",
+    "updated": "Last updated September 22, 2025"
+  },
+  "introSection": {
+    "text": "AdjustIT AB (org. no. 559532-0770, \"we\", \"us\") is committed to protecting your personal privacy and strives to protect your personal data in the best possible way. This policy describes how we collect, use, and protect your personal data in accordance with the General Data Protection Regulation (GDPR)."
+  },
+  "dataCollectionSection": {
+    "title": "What data do we collect?",
+    "introText": "We collect personal data that is necessary to conduct our business and communicate with you as a customer, potential customer, or partner. This may include:",
+    "list": {
+      "contactInfo": {
+        "title": "Contact Information:",
+        "text": "Name, email address, phone number, position."
+      },
+      "companyInfo": {
+        "title": "Company Information:",
+        "text": "Company name, address, corporate identity number."
+      },
+      "communicationHistory": {
+        "title": "Communication History:",
+        "text": "Notes from meetings, email correspondence, and other communication."
+      },
+      "websiteData": {
+        "title": "Website Data:",
+        "text": "Information on how you use our website, which is collected via cookies and analytics tools. More information can be found in our",
+        "cookiePolicyLinkText": "cookie policy"
+      }
+    }
+  },
+  "dataProcessingSection": {
+    "title": "Why do we process your data?",
+    "introText": "Your personal data is processed for the following purposes:",
+    "list": {
+      "customerRelations": {
+        "title": "Customer Relationships and Agreements:",
+        "text": "To fulfill our obligations under agreements with you or your company, and to handle invoicing and customer service matters. The legal basis for this is to fulfill a contract."
+      },
+      "marketing": {
+        "title": "Marketing:",
+        "text": "To inform you about our services, events, and news that we believe may be of interest to you. This processing is based on our legitimate interest in marketing our business. You always have the right to opt out of future marketing."
+      },
+      "analytics": {
+        "title": "Analysis and Statistics:",
+        "text": "To analyze visitor trends and improve our website and services. This processing is based on your consent, which you provide via our cookie tool."
+      },
+      "recruitment": {
+        "title": "Recruitment:",
+        "text": "If you apply for a position with us, we process your data to evaluate your application. The legal basis for this is your consent."
+      }
+    }
+  },
+  "dataRetentionSection": {
+    "title": "How long do we save your data?",
+    "text": "We store your personal data for as long as it is necessary for the purposes for which it was collected, or as long as required by law. This means we retain data on customer relationships for the duration of the contract and for a period thereafter to comply with legal requirements. Data for marketing purposes is saved until you unsubscribe."
+  },
+  "yourRightsSection": {
+    "title": "Your rights",
+    "introText": "Under the GDPR, you have several rights that you can exercise:",
+    "list": {
+      "access": {
+        "title": "Right of access:",
+        "text": "You have the right to get a copy of the personal data we hold about you."
+      },
+      "rectification": {
+        "title": "Right to rectification:",
+        "text": "You have the right to have incorrect data corrected."
+      },
+      "erasure": {
+        "title": "Right to erasure:",
+        "text": "You have the right to have your data erased under certain circumstances."
+      },
+      "dataPortability": {
+        "title": "Right to data portability:",
+        "text": "You have the right to have your data transferred to another data controller."
+      },
+      "objection": {
+        "title": "Right to object:",
+        "text": "You have the right to object to our processing of your data."
+      },
+      "complaint": {
+        "title": "Right to lodge a complaint:",
+        "text": "You have the right to lodge a complaint with the Swedish Authority for Privacy Protection (IMY) if you believe we are processing your data incorrectly."
+      }
+    }
+  },
+  "contactSection": {
+    "title": "Contact us",
+    "introText": "The data controller is AdjustIT AB. To exercise your rights or if you have questions about how we process your personal data, you can contact us at:",
+    "emailLabel": "Email:",
+    "emailAddress": "contact@adjustit.se"
+  }
+}

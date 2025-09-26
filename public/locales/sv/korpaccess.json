@@ -1,0 +1,71 @@
+{
+  "page": {
+    "title": "KorpAccess - Smarta inpasseringslösningar",
+    "description": "KorpAccess är ett flexibelt accesskontrollsystem som förvandlar mobiltelefonen till en säker, digital nyckel. Lösningen för moderna fastigheter och kontor."
+  },
+  "heroSection": {
+    "title1": "Den ",
+    "titleAccent": "smarta nyckeln",
+    "title2": " i din telefon",
+    "description": "KorpAccess är ett flexibelt accesskontrollsystem som förvandlar mobiltelefonen till en säker, digital nyckel. Ge snabb och enkel behörighet till dina anställda, hyresgäster eller besökare direkt i en app med er egna branding. Slipp dyra passerkort och taggar och ge dina användare en modernare upplevelse.",
+    "contactButton": "Kontakta oss"
+  },
+  "featuresSection": {
+    "title1": "Förenkla er accesskontroll ",
+    "titleAccent": "med KorpAccess",
+    "imageAltText": "Dynamiskt anpassad bild för KorpAccess",
+    "accordions": {
+      "accordion1": {
+        "title": "Flexibel åtkomst",
+        "content": "Låt användarna öppna dörrar och grindar direkt med sin smartphone. KorpAccess eliminerar behovet av traditionella plastkort och nyckeltaggar, vilket förenklar hanteringen för både administratörer och slutanvändare."
+      },
+      "accordion2": {
+        "title": "Anpassad för er",
+        "content": "Vi skapar en skräddarsydd applikation för ditt företag, anpassad efter era färger och varumärke. Appen publiceras sedan på både Google Play och Apple App Store i ert namn."
+      },
+      "accordion3": {
+        "title": "Enkel administration",
+        "content": "Styr behörigheter och tillgångar direkt i en central portal. Lägg snabbt till eller ta bort användare och justera deras behörighetsnivåer för specifika dörrar eller områden."
+      },
+      "accordion4": {
+        "title": "Avancerad säkerhet",
+        "content": "Med krypterad kommunikation och modern teknik garanterar KorpAccess en hög säkerhetsnivå. Ni får full överblick och kontroll över alla inpasseringar, dygnet runt."
+      }
+    }
+  },
+  "floatingSection": {
+    "title1": "En lösning ",
+    "titleAccent": "byggd för framtiden.",
+    "description": "En smart inpasseringslösning som anpassar sig efter era unika behov och enkelt integreras med era system."
+  },
+  "faqSection": {
+    "title1": "Några ",
+    "titleAccent": "frågor?",
+    "questions": {
+      "question1": {
+        "title": "Hur fungerar KorpAccess?",
+        "content": "KorpAccess ersätter traditionella passersystem med en app i mobiltelefonen. Användaren får behörighet till specifika dörrar eller områden och kan enkelt öppna dem genom att närma sig läsaren eller via appen."
+      },
+      "question2": {
+        "title": "Hur säkert är systemet?",
+        "content": "Vi använder avancerad end-to-end kryptering för att garantera att all kommunikation mellan appen och passersystemet är helt säker. Administratören har full kontroll över alla behörigheter och kan omedelbart återkalla tillgångar vid behov."
+      },
+      "question3": {
+        "title": "Vilka enheter stöds?",
+        "content": "KorpAccess är kompatibel med både iOS- och Android-enheter och distribueras via Google Play och Apple App Store."
+      },
+      "question4": {
+        "title": "Kan KorpAccess integreras med befintliga system?",
+        "content": "Ja, vi kan skräddarsy en lösning för att integrera KorpAccess med era befintliga passersystem och hårdvara. Kontakta oss för att diskutera just era behov."
+      },
+      "question5": {
+        "title": "Hur kommer vi igång?",
+        "content": "Processen är enkel. Vi börjar med ett möte för att förstå era unika behov och hur KorpAccess kan anpassas. Därefter skapar vi och publicerar er skräddarsydda app, och ger er full support under hela lanseringsprocessen."
+      },
+      "question6": {
+        "title": "Vad kostar KorpAccess?",
+        "content": "Priset baseras på just era behov och den lösning ni vill ha. Kontakta oss för en kostnadsfri offert, så kan vi gå igenom de olika alternativen."
+      }
+    }
+  }
+}

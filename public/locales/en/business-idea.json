@@ -1,0 +1,41 @@
+{
+  "page": {
+    "title": "Business Concept - AdjustIT",
+    "description": "At AdjustIT, we are passionate about making everyday life easier for small associations by developing tailored, smart applications."
+  },
+  "aboutSection": {
+    "title1": "About",
+    "title2": "AdjustIT",
+    "text": "At AdjustIT, we are passionate about making everyday life easier for small associations. By developing tailored, smart applications, we help you streamline and simplify your operations. Our goal is for you to be able to focus on what is truly important: your core business and your members. We work closely with you to identify your unique needs and deliver solutions that make a real difference."
+  },
+  "storySection": {
+    "title1": "Our",
+    "title2": "Story",
+    "cards": {
+      "card1": {
+        "title": "Design",
+        "text": "We start every project by listening to you. Together, we review your challenges and needs to create a clear picture of what needs to be built. This forms the basis for the customized design and solution that we develop."
+      },
+      "card2": {
+        "title": "Development",
+        "text": "Our development is based on a thorough analysis of your needs. We choose the best technology for each project, such as Blazor for KorpAccess, to build robust and modern applications. Our template solutions streamline the process and minimize costs, while maintaining a focus on quality."
+      },
+      "card3": {
+        "title": "Project Management",
+        "text": "We believe in a transparent and structured process. Through effective project management, we ensure that the project runs smoothly and that you are always updated on the progress. Clear communication is our priority."
+      },
+      "card4": {
+        "title": "Collaboration",
+        "text": "Collaboration is the key to success. We work closely with you from start to finish. Through workshops and regular meetings, we ensure that the solution we build is exactly what you need."
+      },
+      "card5": {
+        "title": "Customer-Focused Strategy",
+        "text": "You are at the center of everything we do. Our commitment extends beyond just code; we see ourselves as a partner who wants to see you succeed. We adapt to your wishes to create a solution that is perfect for your specific association."
+      },
+      "card6": {
+        "title": "Drive Success",
+        "text": "With our expertise in IT consulting and application development, we help you take the next step. Whether it's KorpAccess or another IT challenge, we are here to drive you forward."
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "cookies": {
+    "title": "We use cookies",
+    "description": {
+      "text1": "Some cookies are necessary for the service to function. The ones you can choose are used to:",
+      "text2": "Some cookies come from companies we collaborate with. You can change or withdraw your consent at any time."
+    },
+    "preferences": {
+      "improve": "Develop and improve AdjustIT",
+      "personalize": "Customize content and features for you"
+    },
+    "actions": {
+      "settings": "Cookie settings",
+      "rejectAll": "Reject all",
+      "acceptAll": "Accept all",
+      "savePreferences": "Save my choices"
+    },
+    "settings": {
+      "back": "Back",
+      "title": "Manage your cookie settings",
+      "essential": {
+        "title": "Essential",
+        "description": "To ensure our service works, certain data processing is necessary.",
+        "consentTitle": "Consent for cookies",
+        "consentText": "AdjustIT saves your current cookie settings."
+      },
+      "improvedExperience": {
+        "title": "Improved experience",
+        "description": "These cookies are used to customize content and features based on how you use AdjustIT.",
+        "languageTitle": "Language",
+        "languageText": "Remembers your language choice.",
+        "themeTitle": "Theme",
+        "themeText": "Remembers your theme choice."
+      },
+      "performance": {
+        "title": "Performance",
+        "description": "These cookies are used to develop and improve AdjustIT through anonymized statistics.",
+        "statsTitle": "Statistics",
+        "statsText": "AdjustIT analyzes behavior to improve the service. All information collected is anonymous."
+      }
+    }
+  },
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About us",
+    "contact": "Contact us"
+  },
+  "services": {
+    "items": {
+      "korpaccess": {
+        "title": "KorpAccess",
+        "description": "A smart and secure solution that turns your mobile into your digital key."
+      }
+    }
+  },
+  "about": {
+    "items": {
+      "businessIdeaAndVision": "Business Concept & Vision",
+      "ourHistory": "Our History",
+      "management": "Management"
+    }
+  },
+  "footer": {
+    "privacyPolicy": "Privacy Policy",
+    "cookiePolicy": "Cookie Policy"
+  },
+  "notFound": "Oh no! Something went wrong."
+}

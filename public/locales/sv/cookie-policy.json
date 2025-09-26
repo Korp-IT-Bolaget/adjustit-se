@@ -1,0 +1,83 @@
+{
+  "page": {
+    "title": "Cookiepolicy",
+    "description": "AdjustIT ABs policy för cookies och liknande tekniker på vår webbplats."
+  },
+  "headerSection": {
+    "title": "Cookiepolicy",
+    "updated": "Senast uppdaterad September 22, 2025"
+  },
+  "introSection": {
+    "text": "Denna sida beskriver hur AdjustIT använder cookies och liknande tekniker för att samla in och lagra information när du besöker vår webbplats. Policyn är utformad för att uppfylla kraven i den svenska lagen om elektronisk kommunikation (LEK) och den allmänna dataskyddsförordningen (GDPR)."
+  },
+  "whatAreCookiesSection": {
+    "title": "Vad är cookies?",
+    "text": "En cookie är en liten textfil som lagras på din enhet (dator, surfplatta eller mobil) när du besöker en webbplats. Cookies gör att webbplatsen kan känna igen din enhet och lagra information om dina preferenser, vilket förbättrar din användarupplevelse. Vissa cookies är nödvändiga för webbplatsens funktion, medan andra används för att analysera webbplatsens prestanda eller för att anpassa innehåll."
+  },
+  "whatCookiesDoWeUseSection": {
+    "title": "Vilka cookies använder vi?",
+    "text": "Vi använder en enda samtyckes-cookie som lagrar dina val, vilket i sin tur styr vilka andra cookies som sparas på din enhet."
+  },
+  "cookieTypesSection": {
+    "title": "Nödvändiga cookies",
+    "subTitle2": "Cookies för förbättrad upplevelse",
+    "subTitle3": "Prestanda- och statistikcookies",
+    "necessaryCookies": {
+      "text": "För att vår webbplats ska fungera korrekt och för att vi ska kunna lagra dina samtyckesval, använder vi en enda nödvändig cookie. Denna cookie gör det möjligt för oss att komma ihåg dina inställningar för cookies och se till att webbplatsens grundläggande funktioner fungerar som de ska. Eftersom den är essentiell kan den inte inaktiveras. Denna cookie samlar inte in någon personlig information som kan användas för marknadsföring eller för att spåra din webbanvändning.",
+      "list": {
+        "item1": {
+          "name": "Namn:",
+          "name_value": "cookie-consent",
+          "purpose": "Syfte:",
+          "purpose_value": "Sparar ditt val av cookie-inställningar, inklusive dina val för \"Förbättrad upplevelse\" och \"Prestanda\".",
+          "storageTime": "Lagringstid:",
+          "storageTime_value": "1 år."
+        }
+      }
+    },
+    "experienceCookies": {
+      "text": "Om du godkänner denna kategori, lagrar vi cookies som förbättrar din upplevelse på webbplatsen genom att spara dina preferenser. Det kan vara val som språk eller tema (mörkt/ljust läge). Du kan när som helst välja att dra tillbaka ditt samtycke för denna typ av cookies, men att inaktivera dem kan påverka hur webbplatsen ser ut och känns för dig.",
+      "list": {
+        "item1": {
+          "name": "Namn:",
+          "name_value": "i18nextLng",
+          "purpose": "Syfte:",
+          "purpose_value": "Lagrar ditt val av språk för webbplatsen.",
+          "storageTime": "Lagringstid:",
+          "storageTime_value": "1 år."
+        },
+        "item2": {
+          "name": "Namn:",
+          "name_value": "theme",
+          "purpose": "Syfte:",
+          "purpose_value": "Lagrar ditt val av tema (mörkt/ljust läge).",
+          "storageTime": "Lagringstid:",
+          "storageTime_value": "1 år."
+        }
+      }
+    },
+    "performanceCookies": {
+      "text": "Om du godkänner denna kategori, använder vi cookies som hjälper oss att analysera hur besökare interagerar med vår webbplats, vilket ger oss insikter för att förbättra dess prestanda och användarvänlighet. Informationen som samlas in är anonymiserad och inkluderar data som antal besökare, vilka sidor som är populärast, och varifrån besökarna kommer. Denna information hjälper oss att förstå hur webbplatsen används och hur vi kan göra den bättre.",
+      "list": {
+        "item1": {
+          "name": "Namn:",
+          "name_value": "analytics",
+          "purpose": "Syfte:",
+          "purpose_value": "Samlar in anonym statistik om hur vår webbplats används.",
+          "storageTime": "Lagringstid:",
+          "storageTime_value": "1 år."
+        }
+      }
+    }
+  },
+  "yourChoicesSection": {
+    "title": "Dina val och kontroll",
+    "text": "Du har full kontroll över vilka cookies du vill acceptera. Genom vårt cookie-samtyckesverktyg kan du när som helst ändra dina inställningar för cookies som inte är nödvändiga. Du kan också rensa cookies direkt via inställningarna i din webbläsare. Var medveten om att vissa funktioner på webbplatsen kan sluta fungera om du väljer att blockera alla cookies."
+  },
+  "contactSection": {
+    "title": "Kontakta oss",
+    "text": "Om du har frågor om vår cookie policy eller hur vi behandlar dina personuppgifter, kan du kontakta oss på:",
+    "emailLabel": "E-post:",
+    "emailAddress": "contact@adjustit.se"
+  }
+}

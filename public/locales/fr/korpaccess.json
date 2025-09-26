@@ -1,0 +1,71 @@
+{
+  "page": {
+    "title": "KorpAccess - AdjustIT",
+    "description": "KorpAccess est un système de contrôle d'accès flexible qui transforme votre téléphone mobile en une clé numérique sécurisée. La solution pour les propriétés et les bureaux modernes."
+  },
+  "heroSection": {
+    "title1": "La ",
+    "titleAccent": "clé intelligente",
+    "title2": " dans votre téléphone",
+    "description": "KorpAccess est un système de contrôle d'accès flexible qui transforme votre téléphone mobile en une clé numérique sécurisée. Donnez un accès rapide et facile à vos employés, locataires ou visiteurs directement dans une application avec votre propre image de marque. Dites adieu aux cartes d'accès et aux badges coûteux et offrez à vos utilisateurs une expérience plus moderne.",
+    "contactButton": "Nous contacter"
+  },
+  "featuresSection": {
+    "title1": "Simplifiez votre contrôle d'accès ",
+    "titleAccent": "avec KorpAccess",
+    "imageAltText": "Image adaptée dynamiquement pour KorpAccess",
+    "accordions": {
+      "accordion1": {
+        "title": "Accès flexible",
+        "content": "Laissez les utilisateurs ouvrir les portes et les portails directement avec leur smartphone. KorpAccess élimine le besoin de cartes en plastique et de porte-clés traditionnels, simplifiant la gestion pour les administrateurs et les utilisateurs finaux."
+      },
+      "accordion2": {
+        "title": "Personnalisé pour vous",
+        "content": "Nous créons une application sur mesure pour votre entreprise, personnalisée avec vos couleurs et votre image de marque. L'application est ensuite publiée sur Google Play et l'App Store d'Apple sous votre nom."
+      },
+      "accordion3": {
+        "title": "Administration simple",
+        "content": "Contrôlez les autorisations et l'accès directement depuis un portail central. Ajoutez ou supprimez rapidement des utilisateurs et ajustez leurs niveaux d'accès pour des portes ou des zones spécifiques."
+      },
+      "accordion4": {
+        "title": "Sécurité avancée",
+        "content": "Grâce à une communication cryptée et à une technologie moderne, KorpAccess garantit un haut niveau de sécurité. Vous obtenez une vue d'ensemble et un contrôle complet de toutes les entrées, 24 heures sur 24."
+      }
+    }
+  },
+  "floatingSection": {
+    "title1": "Une solution ",
+    "titleAccent": "conçue pour l'avenir.",
+    "description": "Une solution d'accès intelligente qui s'adapte à vos besoins uniques et s'intègre facilement à vos systèmes."
+  },
+  "faqSection": {
+    "title1": "Des ",
+    "titleAccent": "questions ?",
+    "questions": {
+      "question1": {
+        "title": "Comment fonctionne KorpAccess ?",
+        "content": "KorpAccess remplace les systèmes d'accès traditionnels par une application sur votre téléphone mobile. L'utilisateur se voit accorder l'accès à des portes ou des zones spécifiques et peut facilement les ouvrir en s'approchant du lecteur ou via l'application."
+      },
+      "question2": {
+        "title": "À quel point le système est-il sécurisé ?",
+        "content": "Nous utilisons un chiffrement de bout en bout avancé pour garantir que toutes les communications entre l'application et le système d'accès sont entièrement sécurisées. L'administrateur a un contrôle total sur toutes les autorisations et peut révoquer l'accès immédiatement si nécessaire."
+      },
+      "question3": {
+        "title": "Quels appareils sont pris en charge ?",
+        "content": "KorpAccess est compatible avec les appareils iOS et Android et est distribué via Google Play et l'App Store d'Apple."
+      },
+      "question4": {
+        "title": "KorpAccess peut-il être intégré aux systèmes existants ?",
+        "content": "Oui, nous pouvons adapter une solution pour intégrer KorpAccess à vos systèmes d'accès et à votre matériel existants. Contactez-nous pour discuter de vos besoins spécifiques."
+      },
+      "question5": {
+        "title": "Comment démarrer ?",
+        "content": "Le processus est simple. Nous commençons par une réunion pour comprendre vos besoins uniques et comment KorpAccess peut être personnalisé. Nous créons et publions ensuite votre application personnalisée et vous fournissons un support complet tout au long du processus de lancement."
+      },
+      "question6": {
+        "title": "Quel est le coût de KorpAccess ?",
+        "content": "Le prix est basé sur vos besoins spécifiques et la solution que vous souhaitez. Contactez-nous pour un devis gratuit, et nous pourrons examiner les différentes options."
+      }
+    }
+  }
+}

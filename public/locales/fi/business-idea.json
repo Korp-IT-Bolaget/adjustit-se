@@ -1,0 +1,41 @@
+{
+  "page": {
+    "title": "Liikeidea - AdjustIT",
+    "description": "Me AdjustIT:llä haluamme intohimoisesti helpottaa pienten yhdistysten arkea kehittämällä räätälöityjä, älykkäitä sovelluksia."
+  },
+  "aboutSection": {
+    "title1": "Tietoa",
+    "title2": "AdjustIT:stä",
+    "text": "Me AdjustIT:llä haluamme intohimoisesti helpottaa pienten yhdistysten arkea. Kehittämällä räätälöityjä, älykkäitä sovelluksia autamme teitä virtaviivaistamaan ja yksinkertaistamaan toimintaanne. Tavoitteemme on, että voitte keskittyä siihen, mikä on todella tärkeää: ydinliiketoimintaanne ja jäseniinne. Teemme tiivistä yhteistyötä kanssanne tunnistaaksemme ainutlaatuiset tarpeenne ja toimittaaksemme ratkaisuja, jotka todella tekevät eron."
+  },
+  "storySection": {
+    "title1": "Tarina",
+    "title2": "meistä",
+    "cards": {
+      "card1": {
+        "title": "Suunnittelu",
+        "text": "Aloitamme jokaisen projektin kuuntelemalla teitä. Käymme yhdessä läpi haasteenne ja tarpeenne luodaksemme selkeän kuvan siitä, mitä tarvitsee rakentaa. Tämä muodostaa perustan räätälöidylle suunnittelulle ja ratkaisulle, jonka kehitämme."
+      },
+      "card2": {
+        "title": "Kehitys",
+        "text": "Kehityksemme perustuu perusteelliseen tarveanalyysiin. Valitsemme kuhunkin projektiin parhaan teknologian, kuten Blazor KorpAccessiin, rakentaaksemme kestäviä ja moderneja sovelluksia. Pohjaratkaisumme virtaviivaistavat prosessia ja minimoivat kustannukset, samalla kun laatu pysyy keskiössä."
+      },
+      "card3": {
+        "title": "Projektinhallinta",
+        "text": "Uskomme läpinäkyvään ja jäsenneltyyn prosessiin. Tehokkaan projektinhallinnan avulla varmistamme, että projekti etenee sujuvasti ja että olette aina ajan tasalla edistymisestä. Selkeä viestintä on meille ensisijaista."
+      },
+      "card4": {
+        "title": "Yhteistyö",
+        "text": "Yhteistyö on avain menestykseen. Työskentelemme tiiviisti kanssanne alusta loppuun. Työpajojen ja säännöllisten tapaamisten avulla varmistamme, että rakentamamme ratkaisu on juuri se, mitä tarvitsette."
+      },
+      "card5": {
+        "title": "Asiakaslähtöinen strategia",
+        "text": "Te olette kaiken tekemisemme keskiössä. Sitoutumisemme ulottuu koodia pidemmälle; näemme itsemme kumppanina, joka haluaa nähdä teidän menestyvän. Mukautumme toiveisiinne luodaksemme ratkaisun, joka on täydellinen juuri teidän yhdistyksellenne."
+      },
+      "card6": {
+        "title": "Menestyksen eteenpäin vieminen",
+        "text": "IT-konsultoinnin ja sovelluskehityksen asiantuntemuksemme avulla autamme teitä ottamaan seuraavan askeleen. Olipa kyse KorpAccessista tai muusta IT-haasteesta, olemme täällä viemässä teitä eteenpäin."
+      }
+    }
+  }
+}

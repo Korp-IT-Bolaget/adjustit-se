@@ -1,0 +1,75 @@
+{
+  "page": {
+    "title": "Hem - AdjustIT",
+    "description": "AdjustIT är din partner för innovativa IT-lösningar, säkerhet, och digital tillväxt. Kontakta oss för att optimera din verksamhet."
+  },
+  "heroSection": {
+    "category1": "Smarta inpasseringslösningar",
+    "category2": "Varumärke & Upplevelse",
+    "title1": "Innovativ &",
+    "title2": "Pålitlig Teknik",
+    "subtitle": "Snabbt, Smidigt och Användarvänligt.",
+    "paragraph": "Välkommen till vår digitala värld! Vi är IT-konsulter som skapar smarta, hållbara och framtidssäkra digitala lösningar.",
+    "ctaButton": "Boka demo",
+    "cards": {
+      "smartSolutions": {
+        "title": "Smarta IT-lösningar",
+        "description": "Skräddarsydda IT-lösningar som stärker och optimerar verksamheten."
+      },
+      "securityStability": {
+        "title": "Säkerhet & Stabilitet",
+        "description": "Skydd av digitala tillgångar med stabila och pålitliga system."
+      },
+      "future": {
+        "title": "Steget in i framtiden",
+        "description": "Stöd från strategi till implementation för att ligga steget före."
+      },
+      "innovationGrowth": {
+        "title": "Innovation & Tillväxt",
+        "description": "Vi hjälper dig att identifiera nya möjligheter och driva innovation."
+      },
+      "supportMaintenance": {
+        "title": "Support & Underhåll",
+        "description": "Pålitlig och snabb support som säkerställer att dina system alltid fungerar."
+      },
+      "cloudSolutions": {
+        "title": "Molnlösningar",
+        "description": "Effektiva och säkra molntjänster som optimerar din verksamhet."
+      }
+    }
+  },
+  "devToolsSection": {
+    "part1": "Utveckling med",
+    "part2": "de bästa",
+    "part3": "ramverken & verktygen"
+  },
+  "teamSection": {
+    "title1": "Träffa",
+    "title2": "Teamet",
+    "members": {
+      "manjaro": {
+        "name": "Manjaro",
+        "role": "Grundare, VD & Systemutvecklare"
+      },
+      "kyemate": {
+        "name": "Kyemate",
+        "role": "Grundare, VD & Systemutvecklare"
+      },
+      "zeythar": {
+        "name": "Zeythar",
+        "role": "Systemutvecklare"
+      },
+      "agnes": {
+        "name": "Agnes",
+        "role": "Systemutvecklare"
+      }
+    }
+  },
+  "callToActionSection": {
+    "title1": "Låter detta bra?",
+    "title2": "Då är det dags att",
+    "title3": "ta nästa steg.",
+    "description": "Kontakta oss för en kostnadsfri konsultation. Vi hjälper dig att optimera verksamheten, öka effektiviteten och säkra din digitala framtid.",
+    "actionButton": "Kom igång"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "cookies": {
+    "title": "Vi använder cookies",
+    "description": {
+      "text1": "Vissa cookies är nödvändiga för att tjänsten ska fungera. De som du kan välja används för att:",
+      "text2": "Vissa cookies kommer från företag vi samarbetar med. Du kan när som helst ändra eller återkalla ditt medgivande."
+    },
+    "preferences": {
+      "improve": "Utveckla och förbättra AdjustIT",
+      "personalize": "Anpassa innehåll och funktioner för dig"
+    },
+    "actions": {
+      "settings": "Cookie-inställningar",
+      "rejectAll": "Avvisa alla",
+      "acceptAll": "Acceptera alla",
+      "savePreferences": "Spara mina val"
+    },
+    "settings": {
+      "back": "Tillbaka",
+      "title": "Hantera dina cookie-inställningar",
+      "essential": {
+        "title": "Nödvändiga",
+        "description": "För att säkerställa att vår tjänst fungerar är viss datahantering nödvändig.",
+        "consentTitle": "Medgivande för cookies",
+        "consentText": "AdjustIT sparar dina aktuella inställningar för cookies."
+      },
+      "improvedExperience": {
+        "title": "Förbättrad upplevelse",
+        "description": "Dessa cookies används för att anpassa innehåll och funktioner utifrån hur du använder AdjustIT.",
+        "languageTitle": "Språk",
+        "languageText": "Kommer ihåg ditt val av språk.",
+        "themeTitle": "Tema",
+        "themeText": "Kommer ihåg ditt val av tema."
+      },
+      "performance": {
+        "title": "Prestanda",
+        "description": "Dessa cookies används för att utveckla och förbättra AdjustIT genom anonymiserad statistik.",
+        "statsTitle": "Statistik",
+        "statsText": "AdjustIT analyserar beteenden för att förbättra tjänsten. All information som samlas in är anonym."
+      }
+    }
+  },
+  "navigation": {
+    "home": "Hem",
+    "services": "Tjänster",
+    "about": "Om oss",
+    "contact": "Kontakta oss"
+  },
+  "services": {
+    "items": {
+      "korpaccess": {
+        "title": "KorpAccess",
+        "description": "En smart och säker lösning som gör mobilen till din digitala nyckel."
+      }
+    }
+  },
+  "about": {
+    "items": {
+      "businessIdeaAndVision": "Affärsidé & Vision",
+      "ourHistory": "Vår Historia",
+      "management": "Ledning"
+    }
+  },
+  "footer": {
+    "privacyPolicy": "Integritetspolicy",
+    "cookiePolicy": "Cookiepolicy"
+  },
+  "notFound": "Oj då! Någonting gick snett."
+}

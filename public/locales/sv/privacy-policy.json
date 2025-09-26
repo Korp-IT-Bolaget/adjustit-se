@@ -1,0 +1,98 @@
+{
+  "page": {
+    "title": "Integritetspolicy - AdjustIT",
+    "description": "AdjustIT AB värnar om din personliga integritet och strävar efter att skydda dina personuppgifter på bästa sätt."
+  },
+  "headerSection": {
+    "title": "Integritetspolicy",
+    "updated": "Senast uppdaterad September 22, 2025"
+  },
+  "introSection": {
+    "text": "AdjustIT AB (org.nr. 559532-0770, \"vi\", \"oss\") värnar om din personliga integritet och strävar efter att skydda dina personuppgifter på bästa sätt. Denna policy beskriver hur vi samlar in, använder och skyddar dina personuppgifter i enlighet med dataskyddsförordningen (GDPR)."
+  },
+  "dataCollectionSection": {
+    "title": "Vilka uppgifter samlar vi in?",
+    "introText": "Vi samlar in personuppgifter som är nödvändiga för att kunna bedriva vår verksamhet och kommunicera med dig som kund, potentiell kund eller samarbetspartner. Detta kan inkludera:",
+    "list": {
+      "contactInfo": {
+        "title": "Kontaktuppgifter:",
+        "text": "Namn, e-postadress, telefonnummer, befattning."
+      },
+      "companyInfo": {
+        "title": "Företagsinformation:",
+        "text": "Företagsnamn, adress, organisationsnummer."
+      },
+      "communicationHistory": {
+        "title": "Kommunikationshistorik:",
+        "text": "Anteckningar från möten, e-postkorrespondens och annan kommunikation."
+      },
+      "websiteData": {
+        "title": "Webbplatsdata:",
+        "text": "Information om hur du använder vår webbplats, som samlas in via cookies och analysverktyg. Mer information finns i vår",
+        "cookiePolicyLinkText": "cookiepolicy"
+      }
+    }
+  },
+  "dataProcessingSection": {
+    "title": "Varför behandlar vi dina uppgifter?",
+    "introText": "Dina personuppgifter behandlas för följande ändamål:",
+    "list": {
+      "customerRelations": {
+        "title": "Kundrelationer och avtal:",
+        "text": "För att kunna uppfylla våra åtaganden enligt avtal med dig eller ditt företag, samt för att hantera fakturering och kundtjänstärenden. Den rättsliga grunden för detta är att fullgöra ett avtal."
+      },
+      "marketing": {
+        "title": "Marknadsföring:",
+        "text": "För att informera dig om våra tjänster, evenemang och nyheter som vi tror kan vara av intresse för dig. Behandlingen grundar sig på vårt berättigade intresse att marknadsföra vår verksamhet. Du har alltid rätt att tacka nej till framtida marknadsföring."
+      },
+      "analytics": {
+        "title": "Analys och statistik:",
+        "text": "För att analysera besökstrender och förbättra vår webbplats och våra tjänster. Denna behandling sker med ditt samtycke, som du lämnar via vårt cookie-verktyg."
+      },
+      "recruitment": {
+        "title": "Rekrytering:",
+        "text": "Om du söker en tjänst hos oss, behandlar vi dina uppgifter för att kunna bedöma din ansökan. Den rättsliga grunden är ditt samtycke."
+      }
+    }
+  },
+  "dataRetentionSection": {
+    "title": "Hur länge sparar vi dina uppgifter?",
+    "text": "Vi sparar dina personuppgifter så länge de är nödvändiga för de syften de samlades in för, eller så länge det krävs enligt lag. Det innebär att vi behåller uppgifter om kundrelationer så länge avtalet löper och en tid därefter för att uppfylla juridiska krav. Uppgifter för marknadsföringsändamål sparas tills du avregistrerar dig."
+  },
+  "yourRightsSection": {
+    "title": "Dina rättigheter",
+    "introText": "Enligt GDPR har du flera rättigheter som du kan utöva:",
+    "list": {
+      "access": {
+        "title": "Rätt till tillgång:",
+        "text": "Du har rätt att få en kopia av de personuppgifter vi har om dig."
+      },
+      "rectification": {
+        "title": "Rätt till rättelse:",
+        "text": "Du har rätt att få felaktiga uppgifter korrigerade."
+      },
+      "erasure": {
+        "title": "Rätt till radering:",
+        "text": "Du har rätt att få dina uppgifter raderade under vissa omständigheter."
+      },
+      "dataPortability": {
+        "title": "Rätt till dataportabilitet:",
+        "text": "Du har rätt att få dina uppgifter överförda till en annan personuppgiftsansvarig."
+      },
+      "objection": {
+        "title": "Rätt att invända:",
+        "text": "Du har rätt att invända mot vår behandling av dina uppgifter."
+      },
+      "complaint": {
+        "title": "Rätt att lämna in klagomål:",
+        "text": "Du har rätt att lämna in ett klagomål till Integritetsskyddsmyndigheten (IMY) om du anser att vi behandlar dina uppgifter felaktigt."
+      }
+    }
+  },
+  "contactSection": {
+    "title": "Kontakta oss",
+    "introText": "Personuppgiftsansvarig är AdjustIT AB. För att utöva dina rättigheter eller om du har frågor om hur vi behandlar dina personuppgifter, kan du kontakta oss på:",
+    "emailLabel": "E-post:",
+    "emailAddress": "contact@adjustit.se"
+  }
+}

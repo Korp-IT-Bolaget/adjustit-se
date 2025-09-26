@@ -1,0 +1,75 @@
+{
+  "page": {
+    "title": "Accueil - AdjustIT",
+    "description": "AdjustIT est votre partenaire pour des solutions informatiques innovantes, la sécurité et la croissance numérique. Contactez-nous pour optimiser votre entreprise."
+  },
+  "heroSection": {
+    "category1": "Solutions d'accès intelligentes",
+    "category2": "Marque et expérience",
+    "title1": "Technologie Innovante",
+    "title2": "et Fiable",
+    "subtitle": "Rapide, Fluide et Convivial.",
+    "paragraph": "Bienvenue dans notre monde numérique ! Nous sommes des consultants en informatique qui créent des solutions numériques intelligentes, durables et à l'épreuve du temps.",
+    "ctaButton": "Réserver une démo",
+    "cards": {
+      "smartSolutions": {
+        "title": "Solutions informatiques intelligentes",
+        "description": "Des solutions informatiques sur mesure qui renforcent et optimisent votre entreprise."
+      },
+      "securityStability": {
+        "title": "Sécurité et stabilité",
+        "description": "Protection des actifs numériques avec des systèmes stables et fiables."
+      },
+      "future": {
+        "title": "Un pas vers l'avenir",
+        "description": "Accompagnement de la stratégie à la mise en œuvre pour garder une longueur d'avance."
+      },
+      "innovationGrowth": {
+        "title": "Innovation et croissance",
+        "description": "Nous vous aidons à identifier de nouvelles opportunités et à stimuler l'innovation."
+      },
+      "supportMaintenance": {
+        "title": "Support et maintenance",
+        "description": "Un support fiable et rapide qui garantit le bon fonctionnement de vos systèmes."
+      },
+      "cloudSolutions": {
+        "title": "Solutions cloud",
+        "description": "Des services cloud efficaces et sécurisés qui optimisent votre entreprise."
+      }
+    }
+  },
+  "devToolsSection": {
+    "part1": "Développement avec",
+    "part2": "les meilleurs",
+    "part3": "frameworks et outils"
+  },
+  "teamSection": {
+    "title1": "Rencontrez",
+    "title2": "l'équipe",
+    "members": {
+      "manjaro": {
+        "name": "Manjaro",
+        "role": "Fondateur, PDG et développeur de systèmes"
+      },
+      "kyemate": {
+        "name": "Kyemate",
+        "role": "Fondateur, PDG et développeur de systèmes"
+      },
+      "zeythar": {
+        "name": "Zeythar",
+        "role": "Développeur de systèmes"
+      },
+      "agnes": {
+        "name": "Agnes",
+        "role": "Développeuse de systèmes"
+      }
+    }
+  },
+  "callToActionSection": {
+    "title1": "Ça vous plaît ?",
+    "title2": "Alors il est temps de",
+    "title3": "passer à l'étape suivante.",
+    "description": "Contactez-nous pour une consultation gratuite. Nous vous aiderons à optimiser votre entreprise, à augmenter l'efficacité et à sécuriser votre avenir numérique.",
+    "actionButton": "Commencer"
+  }
+}

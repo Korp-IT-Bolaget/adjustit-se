@@ -1,0 +1,71 @@
+{
+  "page": {
+    "title": "KorpAccess - AdjustIT",
+    "description": "KorpAccess is a flexible access control system that turns your mobile phone into a secure, digital key. The solution for modern properties and offices."
+  },
+  "heroSection": {
+    "title1": "The ",
+    "titleAccent": "smart key",
+    "title2": " in your phone",
+    "description": "KorpAccess is a flexible access control system that turns your mobile phone into a secure, digital key. Give quick and easy access to your employees, tenants, or visitors directly in an app with your own branding. Say goodbye to expensive access cards and tags and give your users a more modern experience.",
+    "contactButton": "Contact us"
+  },
+  "featuresSection": {
+    "title1": "Simplify your access control ",
+    "titleAccent": "with KorpAccess",
+    "imageAltText": "Dynamically adapted image for KorpAccess",
+    "accordions": {
+      "accordion1": {
+        "title": "Flexible access",
+        "content": "Let users open doors and gates directly with their smartphone. KorpAccess eliminates the need for traditional plastic cards and key fobs, simplifying management for both administrators and end-users."
+      },
+      "accordion2": {
+        "title": "Customized for you",
+        "content": "We create a tailored application for your company, customized with your colors and branding. The app is then published on both Google Play and the Apple App Store under your name."
+      },
+      "accordion3": {
+        "title": "Simple administration",
+        "content": "Control permissions and access directly from a central portal. Quickly add or remove users and adjust their access levels for specific doors or areas."
+      },
+      "accordion4": {
+        "title": "Advanced security",
+        "content": "With encrypted communication and modern technology, KorpAccess guarantees a high level of security. You get a complete overview and control over all entries, around the clock."
+      }
+    }
+  },
+  "floatingSection": {
+    "title1": "A solution ",
+    "titleAccent": "built for the future.",
+    "description": "A smart entry solution that adapts to your unique needs and easily integrates with your systems."
+  },
+  "faqSection": {
+    "title1": "Any ",
+    "titleAccent": "questions?",
+    "questions": {
+      "question1": {
+        "title": "How does KorpAccess work?",
+        "content": "KorpAccess replaces traditional access systems with an app on your mobile phone. The user is granted access to specific doors or areas and can easily open them by approaching the reader or via the app."
+      },
+      "question2": {
+        "title": "How secure is the system?",
+        "content": "We use advanced end-to-end encryption to ensure that all communication between the app and the access system is completely secure. The administrator has full control over all permissions and can immediately revoke access as needed."
+      },
+      "question3": {
+        "title": "What devices are supported?",
+        "content": "KorpAccess is compatible with both iOS and Android devices and is distributed via Google Play and the Apple App Store."
+      },
+      "question4": {
+        "title": "Can KorpAccess be integrated with existing systems?",
+        "content": "Yes, we can tailor a solution to integrate KorpAccess with your existing access systems and hardware. Contact us to discuss your specific needs."
+      },
+      "question5": {
+        "title": "How do we get started?",
+        "content": "The process is simple. We start with a meeting to understand your unique needs and how KorpAccess can be customized. We then create and publish your custom app and provide you with full support throughout the launch process."
+      },
+      "question6": {
+        "title": "What does KorpAccess cost?",
+        "content": "The price is based on your specific needs and the solution you want. Contact us for a free quote, and we can go over the different options."
+      }
+    }
+  }
+}

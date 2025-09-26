@@ -1,0 +1,41 @@
+{
+  "page": {
+    "title": "Affärsidé - AdjustIT",
+    "description": "Vi på AdjustIT brinner för att göra vardagen enklare för små föreningar genom att utveckla skräddarsydda, smarta applikationer."
+  },
+  "aboutSection": {
+    "title1": "Om",
+    "title2": "AdjustIT",
+    "text": "Vi på AdjustIT brinner för att göra vardagen enklare för små föreningar. Genom att utveckla skräddarsydda, smarta applikationer hjälper vi er att effektivisera och förenkla verksamheten. Vårt mål är att ni ska kunna fokusera på det som verkligen är viktigt: er kärnverksamhet och era medlemmar. Vi jobbar nära er för att identifiera era unika behov och leverera lösningar som gör verklig skillnad."
+  },
+  "storySection": {
+    "title1": "Vår",
+    "title2": "Berättelse",
+    "cards": {
+      "card1": {
+        "title": "Design",
+        "text": "Vi inleder varje projekt med att lyssna på er. Tillsammans går vi igenom era utmaningar och behov för att skapa en tydlig bild av vad som ska byggas. Detta ligger till grund för den skräddarsydda design och lösning som vi tar fram."
+      },
+      "card2": {
+        "title": "Utveckling",
+        "text": "Vår utveckling bygger på en grundlig analys av era behov. Vi väljer den bästa tekniken för varje projekt, som Blazor för KorpAccess, för att bygga robusta och moderna applikationer. Våra template-lösningar effektiviserar processen och minimerar kostnader, samtidigt som kvaliteten är i fokus."
+      },
+      "card3": {
+        "title": "Projektledning",
+        "text": "Vi tror på en transparent och strukturerad process. Genom effektiv projektledning ser vi till att projektet rullar på smidigt och att ni alltid är uppdaterade om framstegen. Tydlig kommunikation är vår prioritet."
+      },
+      "card4": {
+        "title": "Samarbete",
+        "text": "Samarbete är nyckeln till framgång. Vi arbetar tätt ihop med er från start till mål. Genom workshops och regelbundna möten säkerställer vi att lösningen vi bygger är precis vad ni behöver."
+      },
+      "card5": {
+        "title": "Kundfokuserad strategi",
+        "text": "Ni är i centrum av allt vi gör. Vårt engagemang sträcker sig bortom bara kod; vi ser oss som en partner som vill se er lyckas. Vi anpassar oss efter era önskemål för att skapa en lösning som är perfekt för just er förening."
+      },
+      "card6": {
+        "title": "Driv framgång",
+        "text": "Med vår expertis inom IT-konsulting och applikationsutveckling hjälper vi er att ta nästa steg. Oavsett om det handlar om KorpAccess eller en annan IT-utmaning, är vi här för att driva er framåt."
+      }
+    }
+  }
+}

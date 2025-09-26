@@ -1,0 +1,69 @@
+{
+  "cookies": {
+    "title": "Käytämme evästeitä",
+    "description": {
+      "text1": "Jotkut evästeet ovat välttämättömiä palvelun toiminnan kannalta. Ne, jotka voit valita, käytetään:",
+      "text2": "Jotkut evästeet ovat peräisin yrityksiltä, joiden kanssa teemme yhteistyötä. Voit muuttaa tai peruuttaa suostumuksesi milloin tahansa."
+    },
+    "preferences": {
+      "improve": "Kehittää ja parantaa AdjustIT:tä",
+      "personalize": "Mukauttaa sisältöä ja toimintoja sinulle"
+    },
+    "actions": {
+      "settings": "Evästeasetukset",
+      "rejectAll": "Hylkää kaikki",
+      "acceptAll": "Hyväksy kaikki",
+      "savePreferences": "Tallenna valintani"
+    },
+    "settings": {
+      "back": "Takaisin",
+      "title": "Hallitse evästeasetuksiasi",
+      "essential": {
+        "title": "Välttämättömät",
+        "description": "Jotta palvelumme toimisi, tietty tietojenkäsittely on välttämätöntä.",
+        "consentTitle": "Suostumus evästeisiin",
+        "consentText": "AdjustIT tallentaa nykyiset evästeasetuksesi."
+      },
+      "improvedExperience": {
+        "title": "Parempi käyttökokemus",
+        "description": "Näitä evästeitä käytetään sisällön ja toimintojen mukauttamiseen sen perusteella, miten käytät AdjustIT:tä.",
+        "languageTitle": "Kieli",
+        "languageText": "Muistaa kielivalintasi.",
+        "themeTitle": "Teema",
+        "themeText": "Muistaa teemavalintasi."
+      },
+      "performance": {
+        "title": "Suorituskyky",
+        "description": "Näitä evästeitä käytetään AdjustIT:n kehittämiseen ja parantamiseen anonymisoitujen tilastojen avulla.",
+        "statsTitle": "Tilastot",
+        "statsText": "AdjustIT analysoi käyttäytymistä palvelun parantamiseksi. Kaikki kerätyt tiedot ovat anonyymejä."
+      }
+    }
+  },
+  "navigation": {
+    "home": "Etusivu",
+    "services": "Palvelut",
+    "about": "Tietoa meistä",
+    "contact": "Ota yhteyttä"
+  },
+  "services": {
+    "items": {
+      "korpaccess": {
+        "title": "KorpAccess",
+        "description": "Älykäs ja turvallinen ratkaisu, joka muuttaa matkapuhelimesi digitaaliseksi avaimeksi."
+      }
+    }
+  },
+  "about": {
+    "items": {
+      "businessIdeaAndVision": "Liikeidea ja visio",
+      "ourHistory": "Historiamme",
+      "management": "Johto"
+    }
+  },
+  "footer": {
+    "privacyPolicy": "Tietosuojakäytäntö",
+    "cookiePolicy": "Evästekäytäntö"
+  },
+  "notFound": "Voi ei! Jotain meni pieleen."
+}

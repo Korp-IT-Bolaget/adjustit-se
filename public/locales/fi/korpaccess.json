@@ -1,0 +1,71 @@
+{
+  "page": {
+    "title": "KorpAccess - Älykkäät kulunvalvontaratkaisut",
+    "description": "KorpAccess on joustava kulunvalvontajärjestelmä, joka muuttaa matkapuhelimen turvalliseksi, digitaaliseksi avaimeksi. Ratkaisu moderneille kiinteistöille ja toimistoille."
+  },
+  "heroSection": {
+    "title1": "Älykäs avain",
+    "titleAccent": "puhelimessasi",
+    "title2": "",
+    "description": "KorpAccess on joustava kulunvalvontajärjestelmä, joka muuttaa matkapuhelimen turvalliseksi, digitaaliseksi avaimeksi. Anna nopea ja helppo pääsy työntekijöillesi, vuokralaisillesi tai vierailijoillesi suoraan omalla brändäyksellänne varustetussa sovelluksessa. Vältä kalliita kulkukortteja ja avaimenperiä ja tarjoa käyttäjillesi modernimpi kokemus.",
+    "contactButton": "Ota yhteyttä"
+  },
+  "featuresSection": {
+    "title1": "Yksinkertaista kulunvalvontasi ",
+    "titleAccent": "KorpAccessilla",
+    "imageAltText": "Dynaamisesti mukautettu kuva KorpAccessille",
+    "accordions": {
+      "accordion1": {
+        "title": "Joustava pääsy",
+        "content": "Anna käyttäjien avata ovet ja portit suoraan älypuhelimellaan. KorpAccess poistaa perinteisten muovikorttien ja avaimenperien tarpeen, mikä yksinkertaistaa hallintaa sekä ylläpitäjille että loppukäyttäjille."
+      },
+      "accordion2": {
+        "title": "Mukautettu sinulle",
+        "content": "Luomme räätälöidyn sovelluksen yrityksellesi, joka on sovitettu väreihinne ja brändiinne. Sovellus julkaistaan sitten Google Playssa ja Apple App Storessa teidän nimellänne."
+      },
+      "accordion3": {
+        "title": "Helppo hallinta",
+        "content": "Hallinnoi valtuuksia ja pääsyjä suoraan keskitetystä portaalista. Lisää tai poista käyttäjiä nopeasti ja säädä heidän käyttöoikeustasojaan tietyille oville tai alueille."
+      },
+      "accordion4": {
+        "title": "Kehittynyt turvallisuus",
+        "content": "Salatun viestinnän ja modernin teknologian ansiosta KorpAccess takaa korkean turvallisuustason. Saat täyden yleiskuvan ja hallinnan kaikista kulunvalvontatapahtumista, ympäri vuorokauden."
+      }
+    }
+  },
+  "floatingSection": {
+    "title1": "Ratkaisu, joka on ",
+    "titleAccent": "rakennettu tulevaisuutta varten.",
+    "description": "Älykäs kulunvalvontaratkaisu, joka mukautuu ainutlaatuisiin tarpeisiisi ja integroituu helposti järjestelmiisi."
+  },
+  "faqSection": {
+    "title1": "Joitakin ",
+    "titleAccent": "kysymyksiä?",
+    "questions": {
+      "question1": {
+        "title": "Kuinka KorpAccess toimii?",
+        "content": "KorpAccess korvaa perinteiset kulunvalvontajärjestelmät matkapuhelinsovelluksella. Käyttäjä saa käyttöoikeuden tiettyihin oviin tai alueisiin ja voi helposti avata ne lähestymällä lukijaa tai sovelluksen kautta."
+      },
+      "question2": {
+        "title": "Kuinka turvallinen järjestelmä on?",
+        "content": "Käytämme kehittynyttä päästä päähän -salausta varmistaaksemme, että kaikki sovelluksen ja kulunvalvontajärjestelmän välinen viestintä on täysin turvallista. Järjestelmänvalvojalla on täysi hallinta kaikista käyttöoikeuksista ja hän voi välittömästi peruuttaa pääsyt tarvittaessa."
+      },
+      "question3": {
+        "title": "Mitä laitteita tuetaan?",
+        "content": "KorpAccess on yhteensopiva sekä iOS- että Android-laitteiden kanssa ja jaellaan Google Playn ja Apple App Storen kautta."
+      },
+      "question4": {
+        "title": "Voidaanko KorpAccess integroida olemassa oleviin järjestelmiin?",
+        "content": "Kyllä, voimme räätälöidä ratkaisun integroidaksemme KorpAccessin olemassa oleviin kulunvalvontajärjestelmiisi ja laitteistoihisi. Ota meihin yhteyttä keskustellaksesi juuri sinun tarpeistasi."
+      },
+      "question5": {
+        "title": "Kuinka aloitamme?",
+        "content": "Prosessi on yksinkertainen. Aloitamme tapaamisella ymmärtääksemme ainutlaatuiset tarpeesi ja sen, miten KorpAccess voidaan mukauttaa. Tämän jälkeen luomme ja julkaisemme räätälöidyn sovelluksesi ja annamme täyden tuen koko julkaisuprosessin ajan."
+      },
+      "question6": {
+        "title": "Mitä KorpAccess maksaa?",
+        "content": "Hinta perustuu juuri sinun tarpeisiisi ja haluamaasi ratkaisuun. Ota meihin yhteyttä saadaksesi ilmaisen tarjouksen, jotta voimme käydä läpi eri vaihtoehdot."
+      }
+    }
+  }
+}

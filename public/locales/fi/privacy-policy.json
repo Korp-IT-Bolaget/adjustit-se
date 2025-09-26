@@ -1,0 +1,98 @@
+{
+  "page": {
+    "title": "Tietosuojakäytäntö - AdjustIT",
+    "description": "AdjustIT AB arvostaa yksityisyyttäsi ja pyrkii suojaamaan henkilötietojasi parhaalla mahdollisella tavalla."
+  },
+  "headerSection": {
+    "title": "Tietosuojakäytäntö",
+    "updated": "Viimeksi päivitetty 22. syyskuuta 2025"
+  },
+  "introSection": {
+    "text": "AdjustIT AB (y-tunnus. 559532-0770, \"me\", \"meidän\") arvostaa yksityisyyttäsi ja pyrkii suojaamaan henkilötietojasi parhaalla mahdollisella tavalla. Tämä käytäntö kuvaa, kuinka keräämme, käytämme ja suojaamme henkilötietojasi tietosuoja-asetuksen (GDPR) mukaisesti."
+  },
+  "dataCollectionSection": {
+    "title": "Mitä tietoja keräämme?",
+    "introText": "Keräämme henkilötietoja, jotka ovat välttämättömiä liiketoimintamme harjoittamiseksi ja kanssasi kommunikointiin asiakkaana, potentiaalisena asiakkaana tai yhteistyökumppanina. Tämä voi sisältää:",
+    "list": {
+      "contactInfo": {
+        "title": "Yhteystiedot:",
+        "text": "Nimi, sähköpostiosoite, puhelinnumero, tehtävä."
+      },
+      "companyInfo": {
+        "title": "Yritystiedot:",
+        "text": "Yrityksen nimi, osoite, organisaationumero."
+      },
+      "communicationHistory": {
+        "title": "Viestintähistoria:",
+        "text": "Muistiinpanot kokouksista, sähköpostikirjeenvaihto ja muu viestintä."
+      },
+      "websiteData": {
+        "title": "Verkkosivuston tiedot:",
+        "text": "Tiedot siitä, kuinka käytät verkkosivustoamme, jotka kerätään evästeiden ja analyysityökalujen avulla. Lisätietoja on meidän",
+        "cookiePolicyLinkText": "evästekäytännössämme"
+      }
+    }
+  },
+  "dataProcessingSection": {
+    "title": "Miksi käsittelemme tietojasi?",
+    "introText": "Henkilötietojasi käsitellään seuraaviin tarkoituksiin:",
+    "list": {
+      "customerRelations": {
+        "title": "Asiakassuhteet ja sopimukset:",
+        "text": "Voidaksemme täyttää sitoumuksemme sinun tai yrityksesi kanssa tehdyn sopimuksen mukaisesti sekä laskutuksen ja asiakaspalveluasioiden hoitamiseksi. Oikeusperuste tälle on sopimuksen täyttäminen."
+      },
+      "marketing": {
+        "title": "Markkinointi:",
+        "text": "Tiedottaaksemme sinulle palveluistamme, tapahtumistamme ja uutisista, joiden uskomme olevan sinulle mielenkiintoisia. Käsittely perustuu oikeutettuun etuumme markkinoida toimintaamme. Sinulla on aina oikeus kieltäytyä tulevasta markkinoinnista."
+      },
+      "analytics": {
+        "title": "Analyysi ja tilastot:",
+        "text": "Analysoidaksemme kävijätrendejä ja parantaaksemme verkkosivustoamme ja palveluitamme. Tämä käsittely tapahtuu suostumuksellasi, jonka annat evästetyökalumme kautta."
+      },
+      "recruitment": {
+        "title": "Rekrytointi:",
+        "text": "Jos haet meiltä työpaikkaa, käsittelemme tietojasi voidaksemme arvioida hakemustasi. Oikeusperuste on suostumuksesi."
+      }
+    }
+  },
+  "dataRetentionSection": {
+    "title": "Kuinka kauan säilytämme tietojasi?",
+    "text": "Säilytämme henkilötietojasi niin kauan kuin ne ovat tarpeellisia niihin tarkoituksiin, joihin ne on kerätty, tai niin kauan kuin laki sitä vaatii. Tämä tarkoittaa, että säilytämme asiakassuhteisiin liittyviä tietoja niin kauan kuin sopimus on voimassa ja jonkin aikaa sen jälkeen täyttääksemme lakisääteiset vaatimukset. Markkinointitarkoituksiin kerättyjä tietoja säilytetään, kunnes peruutat tilauksen."
+  },
+  "yourRightsSection": {
+    "title": "Sinun oikeutesi",
+    "introText": "GDPR:n mukaan sinulla on useita oikeuksia, joita voit käyttää:",
+    "list": {
+      "access": {
+        "title": "Oikeus pääsyyn:",
+        "text": "Sinulla on oikeus saada kopio henkilötiedoista, joita meillä on sinusta."
+      },
+      "rectification": {
+        "title": "Oikeus oikaisuun:",
+        "text": "Sinulla on oikeus saada virheelliset tiedot korjattua."
+      },
+      "erasure": {
+        "title": "Oikeus poistamiseen:",
+        "text": "Sinulla on oikeus saada tietosi poistettua tietyissä olosuhteissa."
+      },
+      "dataPortability": {
+        "title": "Oikeus tietojen siirrettävyyteen:",
+        "text": "Sinulla on oikeus saada tietosi siirrettyä toiselle rekisterinpitäjälle."
+      },
+      "objection": {
+        "title": "Oikeus vastustaa:",
+        "text": "Sinulla on oikeus vastustaa tietojesi käsittelyämme."
+      },
+      "complaint": {
+        "title": "Oikeus tehdä valitus:",
+        "text": "Sinulla on oikeus tehdä valitus Tietosuojavaltuutetulle (IMY), jos uskot, että käsittelemme tietojasi väärin."
+      }
+    }
+  },
+  "contactSection": {
+    "title": "Ota yhteyttä",
+    "introText": "Rekisterinpitäjä on AdjustIT AB. Jos haluat käyttää oikeuksiasi tai sinulla on kysyttävää henkilötietojesi käsittelystä, voit ottaa meihin yhteyttä osoitteessa:",
+    "emailLabel": "Sähköposti:",
+    "emailAddress": "contact@adjustit.se"
+  }
+}
