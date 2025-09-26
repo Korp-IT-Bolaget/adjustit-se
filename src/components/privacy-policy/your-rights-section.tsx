@@ -18,7 +18,7 @@ export default function YourRightsSection({
 }) {
   return (
     <div>
-      <h2 className="text-4xl">{yourRightsData.title}</h2>
+      <h2 className="text-3xl md:text-4xl">{yourRightsData.title}</h2>
       <p className="mt-4">{yourRightsData.introText}</p>
       <ul className="mt-4 list-disc list-inside">
         {Object.entries(yourRightsData.list).map(([key, item]) => (

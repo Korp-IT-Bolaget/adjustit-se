@@ -75,7 +75,7 @@ export default function MobileNavigation() {
 
       {isOpen && (
         <div
-          className="fixed inset-0 z-40 bg-neutral-50/60 dark:bg-neutral-950/60 backdrop-blur-xl min-h-screen"
+          className="fixed inset-0 z-40 bg-neutral-50/60 dark:bg-neutral-950/60 backdrop-blur-xl min-h-screen translate-z-0"
           style={{ marginTop: `calc(4rem + 1px)` }}
         >
           <div className="flex flex-col items-center h-full max-w-72 mx-auto pt-6 pb-24">
@@ -84,7 +84,7 @@ export default function MobileNavigation() {
                 <LanguageLink
                   to="/"
                   className="py-4 block uppercase font-medium hover:text-accent transition duration-100"
-                  onClick={() => setOpen(false)} 
+                  onClick={() => setOpen(false)}
                 >
                   <span>{t("navigation.home")}</span>
                 </LanguageLink>

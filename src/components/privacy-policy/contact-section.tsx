@@ -14,7 +14,7 @@ export default function ContactSection({
 }) {
   return (
     <div>
-      <h2 className="text-4xl ">{contactData.title}</h2>
+      <h2 className="text-3xl md:text-4xl">{contactData.title}</h2>
       <p className="mt-4">{contactData.introText}</p>
       <p className="mt-2">
         <b>{contactData.emailLabel}</b>{" "}

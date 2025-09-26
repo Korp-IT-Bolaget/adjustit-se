@@ -7,7 +7,6 @@ export interface CookieTypesData {
   performanceCookies: CookieCategory;
 }
 
-
 interface CookieItem {
   name: string;
   name_value: string;
@@ -31,7 +30,7 @@ interface CookieListProps {
 
 const CookieList = ({ listData, titleText }: CookieListProps) => (
   <div>
-    <h3 className="text-3xl">{titleText}</h3>
+    <h3 className="text-2xl md:text-3xl">{titleText}</h3>
     <p className="mt-4">{listData.text}</p>
     {Object.values(listData.list).map((item, index) => (
       <ul key={index} className="mt-4">

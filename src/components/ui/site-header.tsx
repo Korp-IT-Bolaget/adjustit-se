@@ -47,7 +47,7 @@ export default function SiteHeader() {
 
   return (
     <header className="fixed inset-x-0 top-0 z-40 border-b border-border dark:border-white/10 backdrop-blur-xl bg-neutral-50/60 dark:bg-neutral-950/60">
-      <div className="wrapper pl-8 md:px-8">
+      <div className="wrapper pl-5 md:px-8">
         <div className="container mx-auto max-w-7xl h-16 flex items-center justify-between">
           <div className="flex flex-row items-center gap-4">
             <div className="title">

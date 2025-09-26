@@ -21,7 +21,7 @@ export default function DataCollectionSection({
 }) {
   return (
     <div>
-      <h2 className="text-4xl ">{dataCollectionData.title}</h2>
+      <h2 className="text-3xl md:text-4xl">{dataCollectionData.title}</h2>
       <p className="mt-4">{dataCollectionData.introText}</p>
       <ul className="mt-4 list-disc list-inside">
         {Object.entries(dataCollectionData.list).map(([key, item]) => (

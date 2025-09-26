@@ -9,7 +9,7 @@ export interface HeroData {
 export default function Herosection({ heroData }: { heroData: HeroData }) {
   return (
     <section className="relative bg-extra-strong flex items-start justify-center">
-      <div className="mx-auto px-8 pt-32 pb-16 w-full max-w-7xl">
+      <div className="mx-auto px-8 pt-24 lg:pt-32 pb-16 w-full max-w-7xl">
         <div className="text-center flex flex-col gap-8 items-center">
           <h1 className="text-5xl font-semibold">
             {heroData.title1}

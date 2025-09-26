@@ -18,7 +18,7 @@ export default function DataProcessingSection({
 }) {
   return (
     <div>
-      <h2 className="text-4xl ">{dataProcessingData.title}</h2>
+      <h2 className="text-3xl md:text-4xl">{dataProcessingData.title}</h2>
       <p className="mt-4">{dataProcessingData.introText}</p>
       <ul className="mt-4 list-disc list-inside">
         {Object.entries(dataProcessingData.list).map(([key, item]) => (

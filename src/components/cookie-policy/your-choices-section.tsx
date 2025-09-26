@@ -10,7 +10,7 @@ export default function YourChoicesSection({
 }) {
   return (
     <div>
-      <h2 className="text-4xl">{yourChoicesData.title}</h2>
+      <h2 className="text-3xl md:text-4xl">{yourChoicesData.title}</h2>
       <p className="mt-4">{yourChoicesData.text}</p>
     </div>
   );

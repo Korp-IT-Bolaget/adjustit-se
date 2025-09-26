@@ -36,7 +36,8 @@
   "floatingSection": {
     "title1": "Ratkaisu, joka on ",
     "titleAccent": "rakennettu tulevaisuutta varten.",
-    "description": "Älykäs kulunvalvontaratkaisu, joka mukautuu ainutlaatuisiin tarpeisiisi ja integroituu helposti järjestelmiisi."
+    "description": "Älykäs kulunvalvontaratkaisu, joka mukautuu ainutlaatuisiin tarpeisiisi ja integroituu helposti järjestelmiisi.",
+    "contactButton": "Lue lisää"
   },
   "faqSection": {
     "title1": "Joitakin ",

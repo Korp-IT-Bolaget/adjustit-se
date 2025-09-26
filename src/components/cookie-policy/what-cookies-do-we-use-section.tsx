@@ -10,7 +10,7 @@ export default function WhatCookiesDoWeUseSection({
 }) {
   return (
     <div>
-      <h2 className="text-4xl">{whatCookiesDoWeUseData.title}</h2>
+      <h2 className="text-3xl md:text-4xl">{whatCookiesDoWeUseData.title}</h2>
       <p className="mt-4">{whatCookiesDoWeUseData.text}</p>
     </div>
   );

@@ -28,7 +28,6 @@ export interface HeroData {
   cards: HeroCards;
 }
 
-
 interface HeroCard {
   title: string;
   description: string;
@@ -122,7 +121,7 @@ export default function HeroSection({ heroData }: { heroData: HeroData }) {
 
   return (
     <section className="relative min-h-screen bg-extra-strong flex items-start justify-center">
-      <div className="mx-auto px-8 pt-32 pb-16 w-full max-w-7xl">
+      <div className="mx-auto px-8 pt-20 lg:pt-32 pb-16 w-full max-w-7xl">
         <div className="flex flex-col-reverse items-start lg:flex-row lg:items-center justify-between gap-8 lg:gap-2">
           {/* Left content */}
           <div className="w-full lg:w-1/2 flex flex-col gap-2">
